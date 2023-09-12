@@ -16,6 +16,7 @@
 		E88E8EB42AB0DB8900172AEC /* vidplayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E88E8EB32AB0DB8900172AEC /* vidplayTests.swift */; };
 		E88E8EBE2AB0DB8900172AEC /* vidplayUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E88E8EBD2AB0DB8900172AEC /* vidplayUITests.swift */; };
 		E88E8EC02AB0DB8900172AEC /* vidplayUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E88E8EBF2AB0DB8900172AEC /* vidplayUITestsLaunchTests.swift */; };
+		E88E8ECD2AB0E04E00172AEC /* test.mov in Resources */ = {isa = PBXBuildFile; fileRef = E88E8ECC2AB0E04D00172AEC /* test.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E88E8EB92AB0DB8900172AEC /* vidplayUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = vidplayUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E88E8EBD2AB0DB8900172AEC /* vidplayUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vidplayUITests.swift; sourceTree = "<group>"; };
 		E88E8EBF2AB0DB8900172AEC /* vidplayUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vidplayUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E88E8ECC2AB0E04D00172AEC /* test.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = test.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		E88E8E9B2AB0DB8700172AEC /* vidplay */ = {
 			isa = PBXGroup;
 			children = (
+				E88E8ECC2AB0E04D00172AEC /* test.mov */,
 				E88E8E9C2AB0DB8700172AEC /* AppDelegate.swift */,
 				E88E8E9E2AB0DB8700172AEC /* SceneDelegate.swift */,
 				E88E8EA02AB0DB8700172AEC /* ViewController.swift */,
@@ -234,6 +237,7 @@
 				E88E8EA92AB0DB8900172AEC /* LaunchScreen.storyboard in Resources */,
 				E88E8EA62AB0DB8900172AEC /* Assets.xcassets in Resources */,
 				E88E8EA42AB0DB8700172AEC /* Main.storyboard in Resources */,
+				E88E8ECD2AB0E04E00172AEC /* test.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
